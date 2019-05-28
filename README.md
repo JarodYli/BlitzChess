@@ -7,13 +7,13 @@ A simple easy to look at blitz chess game that does match-making based on userâ€
 ## MoSCoW
 
 ### Must Have
-- Sign-up and Login
 - Two Players play the same board 
 - Game follows all the rules of classic chess
 - Time Limit and choose time amount that each player is a lotted 
 - A central button that toggles the timer for each player.
 
 ### Should Have
+- Sign-up and Login
 - User search and find people on the same server to play
 - User Score starting at 1200 and change based on who they beat
 
