@@ -6,7 +6,7 @@ A simple easy to look at blitz chess game that does match-making based on userâ€
 
 ## MoSCoW
 
-## #Must Have
+### Must Have
 - Sign-up and Login
 - Two Players play the same board 
 - Game follows all the rules of classic chess
