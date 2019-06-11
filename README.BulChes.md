@@ -1,4 +1,4 @@
-# BlitzChess
+# BulletChess
 
 ## Introduction/Background
 A simple easy to look at blitz chess game that does match-making based on user’s score.
