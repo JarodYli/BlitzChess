@@ -23,3 +23,10 @@ A simple easy to look at blitz chess game that does match-making based on userâ€
 
 ### Wonâ€™t Have
 - A sophisticated AI that has differing difficulty levels.
+
+
+
+
+## Trello Board: https://trello.com/b/bJHjFHNf/bullet-chess
+
+- green is sprint1. - planned on june 11 2019.
